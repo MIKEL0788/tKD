@@ -1,0 +1,11 @@
+id,name,club,country,category,weight,age,gender,belt
+P001,Jean Dupont,Club Taekwondo Paris,FRA,Senior Men -68kg,67.5,25,M,Black
+P002,Marie Durand,Club Taekwondo Lyon,FRA,Senior Women -57kg,56.8,23,F,Black
+P003,Pierre Martin,Club Taekwondo Marseille,FRA,Junior Men -55kg,54.2,17,M,Red
+P004,Sophie Petit,Club Taekwondo Lille,FRA,Junior Women -49kg,48.5,16,F,Red
+P005,Lucas Bernard,Club Taekwondo Bordeaux,FRA,Cadet Men -53kg,52.8,14,M,Blue
+P006,Emma Leroy,Club Taekwondo Toulouse,FRA,Cadet Women -47kg,46.5,15,F,Blue
+P007,Thomas Moreau,Club Taekwondo Nice,FRA,Senior Men -80kg,79.2,28,M,Black
+P008,Julie Dubois,Club Taekwondo Strasbourg,FRA,Senior Women -67kg,66.3,26,F,Black
+P009,Nicolas Roux,Club Taekwondo Nantes,FRA,Junior Men -63kg,62.7,18,M,Red
+P010,Camille Fournier,Club Taekwondo Montpellier,FRA,Junior Women -52kg,51.8,17,F,Red
