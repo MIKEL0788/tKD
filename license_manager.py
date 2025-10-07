@@ -861,7 +861,7 @@ class ModernLicenseManager:
             stats = {
                 'license_active': self.is_valid(),
                 'days_remaining': self.get_days_remaining(),
-                'security_status': security_report.status.value,
+                'self.security_status': security_report.status.value,
                 'tamper_attempts': security_report.tamper_attempts,
                 'machine_id': self.machine_id[:8] + "...",
                 'features_count': len(license_info.features) if license_info else 0,
